@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm currently learning IT in the EELU university 😁
-- I'm very very very love programming 🖤
+- I'm very love programming 🖤
 
 <br>
 <h3 align="left">Connect with me:</h3>
