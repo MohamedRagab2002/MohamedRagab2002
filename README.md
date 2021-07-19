@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently learning IT in the EELU university 😁
+- I'm currently learning IT in EELU university
 - I'm very love programming 🖤
 
 <br>
