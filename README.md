@@ -1,8 +1,7 @@
 ### Hi there 👋
 - I'm currently learning IT in EELU university
 - I'm very love programming 🖤
-- I am in my secod year at Egyptian E-Learning University, Information Technology department, and I’m very interested in programming.seeking to learn in a stimulating and    challenging environment, where I experience advancement opportunities, and extremely motivated to constantly develop my skills.
-
+- I extremely motivated to constantly develop my skills
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
